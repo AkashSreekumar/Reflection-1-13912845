@@ -99,4 +99,125 @@ Didn’t have any results
 The theory that I have found to be useful was the different types models including behavioural and rule based. They seem to have a strong correlation to my topic. It was also quite interesting to learn that by analysing peoples trends we can create a model to predict how they might act.
 
 
+## Week 4 Reflection
+
+## What have I learnt this week?
+This week was interesting as we learnt a lot about system dynamics and how they can specifically analyse systems. System dynamics usually include both positive and negative feedback systems. Positive feedback is important since it allows for an increase of the same variable. For example, a sale will lead to more sales and so on. Another thing we learned today was about system boundaries. This topic was very interesting as there are many tools that could be used to understand a system. My personal two favourite tools were the lensing tool and Iceberg Model. The lensing tool is very important in real life as it allows for different viewpoints of a problem which is integral to getting a full picture. This is supplemented with Iceberg model as it requires individuals to dive under the surface to get the bigger picture of a situation. For example, while an iceberg may look small, underwater it is much bigger.
+
+## This week I learned about:
+-	System dynamics
+-	Networks
+-	Systems
+
+## What insights have I gained?
+An insight that I gained today was in regard to the casual loop diagram. After reading about the purpose of this diagram and seeing the diagram I realised its significance in illustrating possible relationships between two variables. Upon reflection I made a note about how this could be possibly implemented into my assignment as a model. Another insight that I have gained was within the topic of networks. After discussing in class about the logic of various network formations. These models including, random, small world and lattice revealed that small, micro decisions could in fact create macro decisions. 
+
+## What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+This week I faced one challenge which was understanding the various different form of networks. While discussing many new networks it was difficult to fully understand the purpose of each type of network model. However upon consulting other friends and reading online articles I was able to get a better understanding of what was occurring with networks and its purpose.
+
+### Week 5 Aggregating decisions and behaviours 
+
+## What have I learnt this week?
+This week was interesting as we learnt a lot about the topic of aggregating decisions and behaviours. This included how models are comprised by agents and various behaviours which can help us determine outcomes. This included understanding the significance of probability in models. It was good to see probability being covered in both subjects and being able to apply my knowledge into my assignment. During class we also covered random variables which can be put together to create samples. This also included discrete random variables and continuous random variable. These variables can be influenced by certain events therefore creating a more accurate representation e.g. through the formation of a bell curve. I also found the topic of power laws to be quite fascinating. I learnt that power laws are created and influenced by one individual action which can essentially create other events called positive feedbacks. This individual action is called independence. This type of statistic method can be used to understand data from large normal distributions. 
+a business source of revenue
+
+## This week I learned about:
+-	Aggregation
+-	Probability and its importance
+-	Random variables
+-	Long tail distributions
+-	Power laws
+
+## What insights have I gained?
+I have gained a number of new insights this week. I realised the importance of statistics in modelling, especially in the context of business expansion. For example, a business can use long tail distributions and power laws to establish where their buyers are predominantly from and cater special products that tailor them. I intend to explore this type of statistic methods and possibly apply this into my assignment to understand which strategies work most efficiently on a population through probability. Another insight I gained that can be valuable for my assignment and future use is the Central Limit theorem. This curve is able to normal distributions more clearly, utilising features such as mean, left tale, right tale and standard deviations. This can prove to be integral for data understanding.
+
+## What are (my/the) perceived strengths and weaknesses that I have observed?
+My strengths this week was understanding the content that was covered. This week’s topic of aggregate decisions and behaviours integrated probability which I am currently studying in another subject. This made it simpler to understand the theory behind the graphs and calculations. A weakness that I found was the time it took to fully grasp the use of continuous random variables in modelling, however after reading over the content and reading some articles about its fundamental use I began to appreciate its importance for us. While one specific number may not be sufficient to understand data, the use of many possible values through measuring can help give a clearer picture about a problem.
+
+
+### Week 6: How complex systems evolve over time
+
+## What have I learnt this week?
+This week we learnt about the theory of random walks, Markov Processes and about broadcast, diffusion and contagion. It was quite interesting to understand how Random walk can be used for analysing trends, utilising probability to gain a better understanding of situations. This can include in the form of understanding stock market trends or even sports winning streaks. An interesting new model that we learnt this week was the Granovetter Riot Model. This model revealed an important piece of information that mean wasn’t important, rather the entire distribution is. This is something I have started to be taken into account when analysing data. By using this model, we can distinguish particular values to gain a deeper understanding of particular trends and patterns. 
+
+## This week I learned about:
+-	Markov processes
+-	Granovettes model
+-	Random walk model
+-	Broadcast, diffusion and contagion
+
+## What insights have I gained?
+Some insights that I have gained this week was the understanding and use of the broadcast, diffusion and contagion model. After reading about the diffusion model I realised its potential use for my assignment. By understanding that this particular model works primarily on spread of mouth, I related this to the current outbreak of COVID-19. I realised that by one person having the virus, it has a high probability of quickly spreading to whom he/she comes into contact. This is the basic theory of diffusion model which can be utilised to analyse the spread of the disease in a greater range. Another insight that I have gained is about the broadcast model which is useful in capturing the spreading of information and rumours through television, radio and other media ways. This can be another model our group can use to understand the influence of spreading information related to COVID-19 and the effect it has to the general public. 
+
+## What are (my/the) perceived strengths and weaknesses that I have observed?
+This week i saw my strengths as being able to understand the new models which included Granovttes, random walk, broadcast and diffusion. By understanding these models, I was able to relate this specifically to my model; “Ways to contain COVID-19”. I was able to see that the diffusion and walk model were an important model that could help our group identify which methods were effective. this week my weakness was probably understanding the Markov process as if found it difficult to fully grasp how it works and its application. However, I was able to resolve this by doing more research in my own time and watching some videos about the process.
+
+
+### Week 7: Complexity and emergent behaviour  
+
+## What have I learnt this week?
+This week we were discussing about the topic of complexity and emergent behaviour. It was interesting to understand how individuals who tend to be together start to act and have similar thinking styles. This theory really opened my thoughts of how I act, and actions being shaped by the environment that I surround myself in. I also learnt about the Schelling’s segregation model which led me to realise micro incentives within collective group doesn’t equal to macro- outcomes. This particular Agent based model is useful as it is able to collect the total of all behaviours and look at the outcome. However, the standing ovation model showed me another side of how certain arrangements and factors can influence others if seen. For example, a celebrity can start wearing a new company’s shoes, leading to others to purchase their products. In terms of arrangements, if the front audience of a show begins to stand after the show this may subsequently cause others behind them to follow.
+
+## This week I learned about:
+-	Schelling segregation model
+-	Standing ovation model
+-	Coordination and culture
+-	Pure coordination game
+-	Replication dynamics
+
+## What insights have I gained?
+An insight that I learned today was the impact that a country and/or culture has to influence individuals and families. An example of this is breakfasts in which a person in India may be Dosa but upon moving to Australia may be to Weetabix. This is due to culture having a possible influence on their change. Hence this is presented through the pure coordination game. Another insight I gained this week was learning how each country has different metrics. Upon self-reflection I realised while the US and North Korea have similar power abilities and individualism, they are in fact very different in other categories like culture and interests.
+
+## What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+This week our group was focused on completing pre-submission. Myself and another group member were focused on clearly explaining the three models that were required for the problem; “strategies to contain COVID-19”. The first challenge that we encountered was identifying if our models were in fact appropriate for measuring the effectiveness of our strategies. I would often second doubt my decision of choosing particular models, often leading to time being wasted finding another model. However, through team meetings we were able to discuss and attain second opinions on my decisions. Another challenge that I observed with my team was time management. Our team lacked effective communication in regard to planning strict deadlines. Hence this caused more stress to our team as we needed to edit each other’s work to ensure the assignment had good quality. But due to some parts being handed in the night before due date we were required to do editing work overnight.
+
+
+### Week 8: Complexity and emergent behaviour (PART 2)
+
+## What have I learnt this week?
+This week we continued to learn about games which were in relation to human decisions and behaviour. The first game which we discuss was Colonel blotto game. This was actually quite interesting as it showed us that with an equal number of people within two teams the probability of winning is actually based on luck but when strategy is involved there is a slight advantage, but this is very minimal. However, if troops are unequal then it is based on skill level. When reflecting on this idea I thought about how this could apply in a real-life application and realised job interviews were similar. While individuals had particular skill sets the person who would be successful is purely based on the number of boxes they tick on the criteria. The second game that we discussed today was prison dilemma. This game was also interesting as it revealed how two differing, individuals’ perspectives can be negative for both individuals, but If cooperating with similar goals then can benefit both parties. This game can be applied similarly in a In a real life application. For example, a person who is looking for a car will go to a dealership and the dealership will get money from selling the car, benefiting both groups.
+
+## This week I learned about:
+-	Colonel blotto game
+-	Prison dilemma
+-	Collective actions problems
+
+## What do I 'now know' that I did not before?
+Something that I know now that didn’t know before was the collective action problem and how it truly applies to modern society. While we can collectively as a society create a ban on an action or product, if an individual decides to break that law, many others can which fundamentally defeats the purpose. Another example is using taxpayer’s money to create public parks, roads etc. People who have not contributed to government funds can continue to use these facilities. This is called “free- riding”. The issue which arises is some public goods may be rivalry meaning that once someone utilises it diminishes the ability for another person to use the facility regardless of their contribution.
+
+### Week 9
+
+## What are (my/the) perceived strengths and weaknesses that I have observed
+A strength that I consider having is the ability to coordinate the roles and tasks within our group. By doing this I felt that we were able to save time on considering who does it each section and allowed extra time to have important meetings on other issues. Another strength that I saw this week was being able to quickly write up my sections of the assignment. This was primarily due to the fact that I understood the theory of the models and was able to integrate it easily with my assignment. However, a weakness that I have observed within myself was having breaks for a long period of time which was unnecessary, ultimately making me more time pressured as days progressed.
+
+## What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+This week our group had some challenges to face. Firstly, after our discussion on Monday about the feedback given by another group, we didn’t have any communication for the rest of the week. This was very concerning as we needed to upload regular submissions on GitHub. Hence it also made it difficult for our team members to understand what parts were completed as it was integral to read other members parts to gain a better understanding of the background of the topic.
+
+## What would I do better next time and with what anticipated results?
+This week we received feedback from one group member from the other group. While there was only one members feedback, it had substantial comments from us to use and adapt our existing pre-submission assignment. The feedback said we had a very detailed introduction with good evidence and references. However, he also stated that we needed to integrate the model that Australia is currently using. Our group has planned to integrate this idea as it could provide a greater picture of the difference that our strategies do. Another point that the student proposed was using the Granovetter model. This model was initially meant to be used however was changed to behavioural model. After hearing this recommendation our team plans to discuss what model would be better. 
+
+
+### Week 10
+
+## What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+This week our group was progressing through the assignment. Another group member and I were assigned section five of the assignment as we were not very knowledgeable with Python compared to the other members. However, we were hit with a challenge has our teacher recommended that we split section four, so that everyone can help complete the python codes. He also said that section five wasn’t able to be completed without the previous section. This became a challenge as we had brainstormed ideas for section five but needed to move our attention to section four. This challenge was handled by us through watching videos of how to use python for modelling. Through collaborative teamwork we were managing to understand the basics of using the python software. However, our teacher also provided positive feedback that we were on track and had good 
+
+## What would I do better next time and with what anticipated results?
+Next time I plan to learn how to use Python earlier as that would allow us to save time and use it to create and implement it into our specific topic. Learning Python through videos took a couple of days for myself and my team member to understand. However, in the future this can be useful for other assignments in my IT career. 
+
+
+### Week 11
+
+## What are (my/the) perceived strengths and weaknesses that I have observed?
+This week I continued to work through section four, changing the inputs to a code that I am currently adapting to my topic. The colonel blotto game was much easier to adapt as it was explained in class thoroughly. A weakness this week of mine was finding an already existing behavioural model code that I could implement. I had been doing many days of searching but failed to find any models suitable. However, this week we had a meeting with our teacher, and he provided a recommendation that we use already existing Agent based models and adapt it into behavioural models. This enabled our team to speed up the process of implementing an appropriate model. A strength of our team this week was applying the models and adapting it to suit our particular topic. While I was quite inefficient using python, the rest of the team seemed to be able to adapt inputs and provide codes within a matter of days.
+
+
+### Week 12
+
+## What insights have I gained?
+This week we received feedback on our pre- submission. Our feedback was very detailed and outlined that we had done a great job. Our teacher stated that our chosen models were goof which made me relieved as I was not too sure whether some of my models were appropriate to use for this topic. We learnt that our behavioural model could be implemented through using already existing Agent based model. This included modifying individual’s assumption of people’s behaviour. The final insight that we gained was in regard to the Colonel Blotto game. He recommended using two players. This included a battle between society and COVID-19. This was very interesting for our group because we initially thought of having it as a five-player game, each player being a preventative method. However, after discussion we quickly realised a two-player game would be simpler to understand and integrate.
+
+## What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+This week our team has worked very efficiently. We had coordinated two to three meetings and have discussed our issues and what models are working and ready to add to our assignment. Redah and I are nearly in completion of section five. We have done many meetings this week in the afternoon, discussing about sensitivity testing. We came up with points such as predictions of what methods would be successful and certain boundaries which need to be outlined. 
+
 
